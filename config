@@ -7,7 +7,7 @@ clusters:
 contexts:
 - context:
     cluster: arn:aws:eks:us-east-1:651489909488:cluster/microCluster
-    user: arn:aws:iam::651489909488:user/micro221
+    user: arn:aws:eks:us-east-1:651489909488:cluster/microCluster
   name: arn:aws:eks:us-east-1:651489909488:cluster/microCluster
 current-context: arn:aws:eks:us-east-1:651489909488:cluster/microCluster
 kind: Config
